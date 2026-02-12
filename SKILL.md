@@ -1,10 +1,9 @@
 ---
 name: savage-precision
-description: A skill for channeling fury into controlled, surgical prose that devastates
-  through restraint rather than explosion.
+description: A skill for channeling fury into controlled, surgical prose that devastates through restraint rather than explosion.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - compression
